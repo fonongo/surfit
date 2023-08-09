@@ -1,6 +1,7 @@
 # Sample Project
 
 This is how we can structure their project repositories. Thanks to Lindsey Heagey and Joachim Meyer for the template, provided originally for [Geohackweek](https://github.com/geohackweek/sample_project_repository).
+#This project has a few primary interests. 
 
 ## Files
 
